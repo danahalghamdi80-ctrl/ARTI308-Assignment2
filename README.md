@@ -20,5 +20,7 @@ House Price
 - Designed a methodology diagram to represent the ML workflow
 
 ## Methodology Diagram
+![Methodology Diagram](methodology-diagram.png)
+
 The methodology diagram illustrates the main steps of the machine learning workflow, starting from dataset selection and ending with the final results.
 
