@@ -19,6 +19,11 @@ House Price
 - Displayed dataset shape, first rows, and data types
 - Designed a methodology diagram to represent the ML workflow
 
+  ## Notebook
+The Jupyter Notebook for this lab was created using Kaggle and can be accessed here:
+https://www.kaggle.com/code/danah123101010/notebook-danah
+
+
 ## Methodology Diagram
 ![Methodology Diagram](methodology-diagram.png)
 
