@@ -27,5 +27,8 @@ https://www.kaggle.com/code/danah123101010/notebook-danah
 ## Methodology Diagram
 ![Methodology Diagram](methodology-diagram.png)
 
+This methodology diagram was created with the assistance of an AI tool and customized to fit the requirements of this lab.
+
+
 The methodology diagram illustrates the main steps of the machine learning workflow, starting from dataset selection and ending with the final results.
 
